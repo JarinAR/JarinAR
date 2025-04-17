@@ -1,16 +1,32 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Hi,%20I'm%20Jarin%20Anan!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<!--
-**JarinAR/JarinAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎯 **Data Enthusiast | Excel Expert | Learning Python & Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Jarin Anan, passionate about turning data into powerful insights. I’m currently learning Python, SQL, and Power BI to kickstart my career in data analysis. I enjoy automating tasks, building dashboards, and exploring real-world data problems.
+
+---
+
+### 🛠️ Skills & Tools
+
+- **Excel**: Advanced formulas, cleaning, dashboards  
+- **SQL**: Data querying and manipulation  
+- **Python**: Pandas, Matplotlib (currently learning)  
+- **Power BI**: Visualizations and business insights  
+
+---
+
+### 📊 GitHub Stats
+
+![Jarin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JarinAR&show_icons=true&theme=blueberry)
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jarin-anan-30b4a728a)
+
+---
+
+_💡 Always learning. Always growing._
